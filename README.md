@@ -6,6 +6,8 @@ colab에서 진행하는 것을 추천 합니다.
 
 학습 이미지가 적더라도 이미지의 화질, 얼굴을 가리지 않는 이미지 등 이미지의 품질이 좋다면 좋은 결과를 얻을 수 있습니다.
 
+아래 이미지는 styleGAN2-ada를 통해 생성된 이미지 입니다.
+
 ![chu_train28-stylegan2-kimg25000-ada-gamma1-ffhq1024](https://user-images.githubusercontent.com/40240766/141753191-ea24abb8-bfc9-414a-8594-af2b2c027df8.jpg)
 
 
