@@ -10,13 +10,7 @@ colab에서 진행하는 것을 추천 합니다.
 
 ![chu_train28-stylegan2-kimg25000-ada-gamma1-ffhq1024](https://user-images.githubusercontent.com/40240766/141753191-ea24abb8-bfc9-414a-8594-af2b2c027df8.jpg)
 
-![chu1](https://user-images.githubusercontent.com/40240766/141886875-652b147a-2764-4174-8638-8d77fc06bdd0.png)
-![chu2](https://user-images.githubusercontent.com/40240766/141886881-5cadf5f9-9352-4805-90b4-6403df8e8373.png)
-![chu3](https://user-images.githubusercontent.com/40240766/141886886-8c955bcf-1c10-4af7-acbd-e62ffb9674f1.png)
-![chu4](https://user-images.githubusercontent.com/40240766/141886890-7b7807f7-239f-457c-b3cc-4635cedb1f67.png)
-![chu5](https://user-images.githubusercontent.com/40240766/141886895-41ac9e1f-955d-4da3-8313-db363d410bf1.png)
-![chu6](https://user-images.githubusercontent.com/40240766/141886896-c955b137-dd33-4bd7-887d-225a6ed93d8f.png)
-
+![chu3](https://user-images.githubusercontent.com/40240766/141887071-f835930c-61e0-4714-86f7-fcea824ba6c5.png)
 
 # StyleGAN2
 
